@@ -10,3 +10,4 @@ Test branch add by master.
 Test branch by himajin3.
 Test rebase taiwa by jimajin2
 Test Rebase taiwa by master.
+Test スタッシュ.
