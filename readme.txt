@@ -9,4 +9,4 @@ Mod branch by himajin1.
 Test branch add by master.
 Test branch by himajin3.
 Test rebase taiwa by jimajin2
-Test Rebase taiwa by master.
+Test Rebase taiwa by master. + スタッシュテスト
