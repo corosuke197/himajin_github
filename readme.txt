@@ -11,3 +11,4 @@ Test branch by himajin3. チェリーピック1
 Test rebase taiwa by jimajin2 + スタッシュテスト
 Test Rebase taiwa by master. + スタッシュテスト+
 Test cherry pic?
+打ち消してすｔ
