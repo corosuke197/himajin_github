@@ -8,3 +8,4 @@ Test branch by himajin2.
 Mod branch by himajin1.
 Test branch add by master.
 Test branch by himajin3.
+Test Rebase by master.
