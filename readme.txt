@@ -1,3 +1,3 @@
 Hello SourceTree !
 Add from Github !
-Mod from SourceTree part2 !
+Mod from Github part2 !
